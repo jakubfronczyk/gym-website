@@ -80,7 +80,7 @@ const Home = ({setSelectedPage}: Props) => {
             {isAboveMediumScreens && (
                 <div className="h-[150px] w-full bg-primary-100 py-10">
                     <div className="mx-auto w-5/6">
-                        <div className="flex  mx-auto items-center justify-between gap-8">
+                        <div className="flex w-1/3 items-center justify-between gap-8">
                             <img src={SponsorForbes} alt="forbes-sponsor" />
                             <img src={SponsorFortune} alt="fortune-sponsor" />
                         </div>
