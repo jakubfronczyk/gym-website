@@ -3,7 +3,6 @@ import ActionButton from "@/shared/ActionButton";
 import { SelectedPage } from "@/shared/types"
 import HomePageText from "@/assets/HomePageText.png"
 import HomePageGraphic from "@/assets/HomePageGraphic.png"
-import SponsorRedbull from "../../assets/sponsorredbull.png"
 import SponsorForbes from "@/assets/SponsorForbes.png"
 import SponsorFortune from "@/assets/SponsorFortune.png"
 import AnchorLink from "react-anchor-link-smooth-scroll";
@@ -82,7 +81,6 @@ const Home = ({setSelectedPage}: Props) => {
                 <div className="h-[150px] w-full bg-primary-100 py-10">
                     <div className="mx-auto w-5/6">
                         <div className="flex  mx-auto items-center justify-between gap-8">
-                            <img src={SponsorRedbull} alt="redbull-sponsor" />
                             <img src={SponsorForbes} alt="forbes-sponsor" />
                             <img src={SponsorFortune} alt="fortune-sponsor" />
                         </div>
