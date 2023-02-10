@@ -10,4 +10,5 @@ What I used to build this:
 - TailwindCSS
 - Frame-motion
 - react-anchor-link
+- react-hook-form
 - hero-icons
