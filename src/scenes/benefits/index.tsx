@@ -46,6 +46,7 @@ const index = ({setSelectedPage}: Props) => {
         >
             <motion.div
                 onViewportEnter={() => setSelectedPage(SelectedPage.Benefits)}
+                className="mt-10"
             >
                 <motion.div 
                     className="md:my-5 md:w-3/5"
