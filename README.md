@@ -1,5 +1,5 @@
 # Complete Responsive Fitness Website 
-[Check out project live]()
+[Check out project live](https://gym-fitness-evo.netlify.app/)
 
 ## General innfo
 This project is an React TypeScript web application. 
