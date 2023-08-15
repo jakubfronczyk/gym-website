@@ -15,7 +15,7 @@ The following technologies are used in this project:
 * TypeScript - Superset of JavaScript that adds static typing and other features
 * TailwindCSS - Utility-first CSS framework
 * Tailwind CSS - Utility-first CSS framework
-* Library for creating animations and transitions in React applications
+* framer-motion - Library for creating animations and transitions in React applications
 * react-anchor-link - Library for smooth scrolling to anchors on the same page
 * react-hook-form - Library for form handling in React applications
 * Hero Icons - Free, open-source icon library
